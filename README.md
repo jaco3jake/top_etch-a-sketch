@@ -1,1 +1,1 @@
-# top_etch-a-sketch
+# The odin project assignment :etch-a-sketch
